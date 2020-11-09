@@ -1,6 +1,12 @@
 # YouTube-Page
 a simple YouTube page created using html and CSS while using goggle font
 This project was intended to solidify learning of embedding of images and video onto a website by cloning a YouTube page without scripting and responsive behaviour.
+while taking up the odins challenge
+
+
+
+
+
 ![youtube](https://user-images.githubusercontent.com/65861136/98593957-fef09680-22e4-11eb-822f-004d0f924f33.png)
 ![youtube1](https://user-images.githubusercontent.com/65861136/98593911-eb453000-22e4-11eb-92b8-9a3c268203da.png)
 
