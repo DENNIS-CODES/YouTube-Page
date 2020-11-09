@@ -35,7 +35,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- [@microverseinc](https://github.com/microverseinc)
+- @odin challenge
 
 ## 📝 License
 
