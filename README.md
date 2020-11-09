@@ -12,7 +12,7 @@ This project was intended to solidify learning of embedding of images and video 
 
 ## Live Demo
 
-[Live Demo Link](https://DENNIS-CODES.github.io/YouTube-Page/)
+[Live Demo Link](https://DENNIS-CODES.github.io/YouTube-Page/index.html)
 
 ## Author
 
