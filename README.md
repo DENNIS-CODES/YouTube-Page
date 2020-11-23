@@ -7,8 +7,7 @@ As part of the odins challenge
 
 # ScreenShorts
 
-![youtube](https://user-images.githubusercontent.com/65861136/98602734-036f7c00-22f2-11eb-8949-6454aaf3cf87.png)
-![youtube1](https://user-images.githubusercontent.com/65861136/98602901-3c0f5580-22f2-11eb-9a6b-d210b60ba924.png)
+![screencapture-dennis-codes-github-io-YouTube-Page-index-html-2020-11-23-08_52_28](https://user-images.githubusercontent.com/65861136/99932535-67218c80-2d69-11eb-966a-f33a7569e3f1.png)
 
 ## Built With
 
